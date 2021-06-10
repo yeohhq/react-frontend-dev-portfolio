@@ -38,12 +38,12 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: white;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 100px;
 	padding-bottom: 0;
 }
 
@@ -66,7 +66,7 @@ header {
 
 .skills-tile {
 	background-color: transparentize(#F8F5F4, 0.95);
-	padding: 10px 10px 5px 10px;
+	padding: 20px 10px 10px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
 	border-radius: 8px;
@@ -74,7 +74,7 @@ header {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: white;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -90,11 +90,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid black;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: white;
 	height: 25px;
 }
 
@@ -108,7 +108,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: white;
 	overflow: hidden;
 }
 
@@ -172,7 +172,8 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	min-width: 200px;
+	width: 300px;
 }
 
 .polaroid span {
@@ -206,7 +207,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: white;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -219,7 +220,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: lightgrey;
 }
 
 .experience-icon {
@@ -229,22 +230,22 @@ header h1 {
 }
 
 .main-badge {
-	font-size: 13px !important;
+	font-size: 14px !important;
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: white !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .experience-badge {
-	font-size: 11px !important;
+	font-size: 14px !important;
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: lightgray !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -282,7 +283,7 @@ header h1 {
 .bars li {
 	position: relative;
 	margin-bottom: 60px;
-	background: #ccc;
+	background: skyblue;
 	height: 42px;
 	border-radius: 3px;
 }
@@ -341,7 +342,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: white;
 	padding-bottom: 5%;
 }
 

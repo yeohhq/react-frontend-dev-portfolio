@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello there!",
+      "description": "👋 I'm Yeoh Hui Qing, a to-be Year 3 Computer Science undegraduate at National University of Singapore (NUS)! I'm currently interning for the summer as a WCMS Developer, and is working on expanding my knowledge for front-end development, software engineering and UI/UX designs!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,173 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Ufie - Orbital Project",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The first mobile application I had opportunity to create! I've learned many technologies together with my partner. Ufie is a meet-up scheduler mobile application that allows you to meet with your friends more conveniently!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/ufie/p1.jpeg",
+          "images/portfolio/ufie/p2.jpeg"
         ],
-        "url": "",
+        "url": "https://github.com/constancensq/ufie",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-dart-plain",
+            "name": "Dart"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          },
+          {
+            "class": "devicon-xd-plain",
+            "name": "AdobeXD"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android Studios"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "RIP - Game Dev Project",
+        "startDate": "2020",
+        "description": "One of the first elaborate game I have built with a team of 4 other friends on Unreal Engine 4 for a school project under CS3247. I was in charge of map design, assets creation and game logic. Rest In Peace (RIP) is a top-down third person action game that challenges the player to survive zombies attacks and achieve victory by collecting crystals scattered across the map. Click on the link above to download the game if you would like to challenge yourself at it ;)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/rest-in-peace/Slide1.png",
+          "images/portfolio/rest-in-peace/Slide2.png",
+          "images/portfolio/rest-in-peace/Slide3.png",
+          "images/portfolio/rest-in-peace/Slide4.png",
+          "images/portfolio/rest-in-peace/Slide5.png",
+          "images/portfolio/rest-in-peace/Slide6.png",
+          "images/portfolio/rest-in-peace/Slide7.png",
+          "images/portfolio/rest-in-peace/Slide8.png",
+          "images/portfolio/rest-in-peace/Slide9.png",
+          "images/portfolio/rest-in-peace/Slide10.png",
+          "images/portfolio/rest-in-peace/Slide11.png"
         ],
-        "url": "https://github.com",
+        "url": "https://drive.google.com/file/d/1Rlst_cD1qiAmjdtonibWuZxLtD_ZAIiC/view?usp=sharing",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": "Unreal Engine 4"
+          }
+        ]
+      },
+      {
+        "title": "Shopee Compare",
+        "startDate": "2020",
+        "description": "Shopee Compare is my team's proposed idea to help improve the existing Shopee app to help users make better purchase decisions when shopping on the platform. This idea has led our team to the Semi-Finals of the Shopee UI/UX Challenge 2021. You can view our prototype in the link attached :)",
+        "images": [
+          "images/portfolio/shopee-compare/poster.jpg",
+          "images/portfolio/shopee-compare/mockup.png"
+        ],
+        "url": "https://www.figma.com/proto/OxfBomMwUyaQ1bPoJdnTEU/Shopee-AmongUX?node-id=61%3A1&scaling=min-zoom",
+        "technologies": [
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-xd-plain",
+            "name": "AdobeXD"
+          }
+        ]
+      },
+      {
+        "title": "Reportise",
+        "startDate": "2020",
+        "description": "UI/UX Design project for a private company working on sharing news in bite-sized summaries to combat the problem of information overload in today's world. Reportise is a news-sharing and social platform where users can pay-as-you-read. I was responsible for revamping the site UI/UX to optimise the site's novel features for users. :)",
+        "images": [
+          "images/portfolio/reportise/reportise_1.jpg",
+          "images/portfolio/reportise/reportise_2.jpg",
+          "images/portfolio/reportise/reportise_3.jpg",
+          "images/portfolio/reportise/reportise_4.jpg"
+        ],
+        "url": "reportise.com",
+        "technologies": [
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-xd-plain",
+            "name": "AdobeXD"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "NTUC Income",
+        "title": "WCMS Developer",
+        "years": "05.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML, CSS, Kentico CMS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
           ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Python",
+          "JQuery"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Reportise Pte Ltd",
+        "title": "Co-Founder / UI/UX Designer",
+        "years": "03.2020 - 06.2020",
         "mainTech": [
-          "Angular 7/8"
+          "UI/UX Design"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Procreate",
+          "Figma",
+          "AdobeXD"
+        ]
+      },
+      {
+        "company": "NUS Student's Computing Club",
+        "title": "Deputy Director for Graphics and Content",
+        "years": "09.2019 - 09.2020",
+        "mainTech": [
+          "Design, Content Curation"
+        ],
+        "technologies": [
+          "Procreate",
+          "Photoshop",
+          "Lightroom"
+        ]
+      },
+      {
+        "company": "Self-Managed",
+        "title": "Freelance Graphic Designer",
+        "years": "03.2017 - present",
+        "mainTech": [
+          "Design"
+        ],
+        "technologies": [
+          "Procreate",
+          "Photoshop",
+          "Lightroom"
         ]
       }
     ]

@@ -20,7 +20,7 @@ class App extends Component {
   }
 
   applyPickedLanguage(pickedLanguage, oppositeLangIconId) {
-    this.swapCurrentlyActiveLanguage(oppositeLangIconId);
+    // this.swapCurrentlyActiveLanguage(oppositeLangIconId);
     document.documentElement.lang = pickedLanguage;
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage
@@ -29,18 +29,18 @@ class App extends Component {
     this.loadResumeFromPath(resumePath);
   }
 
-  swapCurrentlyActiveLanguage(oppositeLangIconId) {
-    var pickedLangIconId =
-      oppositeLangIconId === window.$primaryLanguageIconId
-        ? window.$secondaryLanguageIconId
-        : window.$primaryLanguageIconId;
-    document
-      .getElementById(oppositeLangIconId)
-      .removeAttribute("filter", "brightness(40%)");
-    document
-      .getElementById(pickedLangIconId)
-      .setAttribute("filter", "brightness(40%)");
-  }
+  // swapCurrentlyActiveLanguage(oppositeLangIconId) {
+  //   var pickedLangIconId =
+  //     oppositeLangIconId === window.$primaryLanguageIconId
+  //       ? window.$secondaryLanguageIconId
+  //       : window.$primaryLanguageIconId;
+  //   document
+  //     .getElementById(oppositeLangIconId)
+  //     .removeAttribute("filter", "brightness(40%)");
+  //   document
+  //     .getElementById(pickedLangIconId)
+  //     .setAttribute("filter", "brightness(40%)");
+  // }
 
   componentDidMount() {
     this.loadSharedData();
@@ -83,7 +83,7 @@ class App extends Component {
     return (
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
-        <div className="col-md-12 mx-auto text-center language">
+        {/* <div className="col-md-12 mx-auto text-center language">
           <div
             onClick={() =>
               this.applyPickedLanguage(
@@ -116,7 +116,7 @@ class App extends Component {
               id={window.$secondaryLanguageIconId}
             ></span>
           </div>
-        </div>
+        </div> */}
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}

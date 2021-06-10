@@ -47,10 +47,16 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              <Switch
+              <div style={{paddingTop: '3rem', paddingBottom: '3rem'}}>
+                <h1 className="mb-0">
+                ᕙ(`▿´)ᕗ
+                </h1>
+              </div>
+              <a role="button" class="btn btn-dark btn-lg" href="https://drive.google.com/file/d/1vvAdfC3pwiBfwZxKCHuVRXTs-Hy3zJ4w/view?usp=sharing">View my CV</a>
+              {/* <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}
-                offColor="#baaa80"
+                offColor="#000000"
                 onColor="#353535"
                 className="react-switch mx-auto"
                 width={90}
@@ -86,7 +92,7 @@ class Header extends Component {
                   ></span>
                 }
                 id="icon-switch"
-              />
+              /> */}
             </div>
           </div>
         </div>
