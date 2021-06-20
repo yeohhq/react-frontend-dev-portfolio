@@ -51,7 +51,7 @@ class Header extends Component {
                 ᕙ(`▿´)ᕗ
                 </h1>
               </div>
-              <a role="button" class="btn btn-dark btn-lg" href="https://drive.google.com/file/d/1vvAdfC3pwiBfwZxKCHuVRXTs-Hy3zJ4w/view?usp=sharing">View my CV</a>
+              <a role="button" className="btn btn-dark btn-lg" href="https://drive.google.com/file/d/1vvAdfC3pwiBfwZxKCHuVRXTs-Hy3zJ4w/view?usp=sharing">View my CV</a>
             </div>
           </div>
         </div>

@@ -17,8 +17,11 @@ class Footer extends Component {
     return (
       <footer>
         <div className="col-md-12">
+        <h1 className="section-title" style={{ color: "white" }}>
+            <span>MY ART GALLERY</span>
+          </h1>
+          <div id="instafeed"></div>
           <div className="social-links">{networks}</div>
-
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>
