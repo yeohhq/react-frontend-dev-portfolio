@@ -120,6 +120,53 @@
             "name": "CSS3"
           }
         ]
+      },
+      {
+        "title": "Incoming Crisis Game",
+        "startDate": "2021",
+        "description": "Incoming Crisis is a prototype for a mobile game I created during my internship at NTUC Income for a Design Thinking Project. The purpose of the game is to teach fresh graduates/young adults about financial planning and insurance in an interactive and engaging manner such that understanding how to plan their finances is made easy and accessible.",
+        "images": [
+          "images/portfolio/incoming-crisis/IncomingCrisis-1.png",
+          "images/portfolio/incoming-crisis/IncomingCrisis-2.png",
+          "images/portfolio/incoming-crisis/IncomingCrisis-3.png",
+          "images/portfolio/incoming-crisis/IncomingCrisis-4.png",
+          "images/portfolio/incoming-crisis/IncomingCrisis-5.png",
+          "images/portfolio/incoming-crisis/IncomingCrisis-6.png",
+          "images/portfolio/incoming-crisis/IncomingCrisis-7.png",
+          "images/portfolio/incoming-crisis/IncomingCrisis-8.png"
+        ],
+        "url": "https://www.figma.com/proto/Hl1oEV099r7Bz4zce72yi9/Incoming-Crisis?node-id=38%3A6210&scaling=scale-down&page-id=136%3A35&starting-point-node-id=38%3A6210",
+        "technologies": [
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Qredits - QR Marketplace",
+        "startDate": "2021",
+        "description": "Qredits is a QR marketplace for shoppers and brick-and-mortar merchants, where shoppers can purchase vouchers in the form of QR codes in the application, and merchants (cashiers) can scan the QRs to apply offers to their customers. Customers can earn royalty points to then receive offers for future QR voucher purchases. This application prototype was developed within a 2-day period for the Citibank Citi HackOverflow 2021 competition, together with my 3 other team mates - Bik Jeun, Wei Liang and Jun Hao. You can view our pitch deck here: https://docs.google.com/presentation/d/1QLSNnHl1ASLyxQKpH4BKNq9OolQRoddnQHVpDAGpYFQ/edit?usp=sharing",
+        "images": [
+          "images/portfolio/qredits/Qredits-1.png",
+          "images/portfolio/qredits/Qredits-2.png",
+          "images/portfolio/qredits/Qredits-3.png",
+          "images/portfolio/qredits/Qredits-4.png",
+          "images/portfolio/qredits/Qredits-5.png",
+          "images/portfolio/qredits/Qredits-6.png",
+          "images/portfolio/qredits/Qredits-7.png"
+        ],
+        "url": "https://www.figma.com/proto/KRKhJOECSL58UDgImzqTzr/Mobile-UI-kit-Community-Copy?node-id=202%3A2321&scaling=scale-down",
+        "technologies": [
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React Native"
+          }
+        ]
       }
     ],
     "experience": [
