@@ -146,7 +146,7 @@
       {
         "title": "Qredits - QR Marketplace",
         "startDate": "2021",
-        "description": "Qredits is a QR marketplace for shoppers and brick-and-mortar merchants, where shoppers can purchase vouchers in the form of QR codes in the application, and merchants (cashiers) can scan the QRs to apply offers to their customers. Customers can earn royalty points to then receive offers for future QR voucher purchases. This application prototype was developed within a 2-day period for the Citibank Citi HackOverflow 2021 competition, together with my 3 other team mates - Bik Jeun, Wei Liang and Jun Hao. You can view our pitch deck here: https://docs.google.com/presentation/d/1QLSNnHl1ASLyxQKpH4BKNq9OolQRoddnQHVpDAGpYFQ/edit?usp=sharing",
+        "description": "Qredits is a QR marketplace for shoppers and brick-and-mortar merchants, where shoppers can purchase vouchers in the form of QR codes in the application, and merchants (cashiers) can scan the QRs to apply offers to their customers. Customers can earn royalty points to then receive offers for future QR voucher purchases. This application prototype was developed within a 2-day period for the Citibank Citi HackOverflow 2021 competition, together with my 3 other team mates - Bik Jeun, Wei Liang and Jun Hao.",
         "images": [
           "images/portfolio/qredits/Qredits-1.png",
           "images/portfolio/qredits/Qredits-2.png",
@@ -157,6 +157,7 @@
           "images/portfolio/qredits/Qredits-7.png"
         ],
         "url": "https://www.figma.com/proto/KRKhJOECSL58UDgImzqTzr/Mobile-UI-kit-Community-Copy?node-id=202%3A2321&scaling=scale-down",
+        "pitchDeck": "https://docs.google.com/presentation/d/1QLSNnHl1ASLyxQKpH4BKNq9OolQRoddnQHVpDAGpYFQ/edit?usp=sharing",
         "technologies": [
           {
             "class": "devicon-figma-plain",
