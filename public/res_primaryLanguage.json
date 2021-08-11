@@ -47,6 +47,23 @@
         ]
       },
       {
+        "title": "Archangel - Clinical Data & Appointment Manager",
+        "startDate": "2020",
+        "description": "Archangel is a desktop application with a user-friendly Command-Line Interface (CLI) that serves to help medical personnel manage clinical and patient data, and schedule appoints for their patients. This application was developed with my CS2103T Software Engineering module team - Kim Guan, Hoa Shen, Gordon and Jim.",
+        "images": [
+          "images/portfolio/archangel/Archangel-1.png",
+          "images/portfolio/archangel/Archangel-2.png"
+        ],
+        "url": "https://ay2021s1-cs2103t-w11-1.github.io/tp/",
+        "pitchDeck": "https://docs.google.com/presentation/d/1lTUPWbDy5wWk0m8im9GA8W6d1S5Id51d-pUfZ2BhEno/edit?usp=sharing",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
         "title": "RIP - Game Dev Project",
         "startDate": "2020",
         "description": "One of the first elaborate game I have built with a team of 4 other friends on Unreal Engine 4 for a school project under CS3247. I was in charge of map design, assets creation and game logic. Rest In Peace (RIP) is a top-down third person action game that challenges the player to survive zombies attacks and achieve victory by collecting crystals scattered across the map. Click on the link above to download the game if you would like to challenge yourself at it ;)",
@@ -80,6 +97,7 @@
           "images/portfolio/shopee-compare/mockup.png"
         ],
         "url": "https://www.figma.com/proto/OxfBomMwUyaQ1bPoJdnTEU/Shopee-AmongUX?node-id=61%3A1&scaling=min-zoom",
+        "pitchDeck": "https://docs.google.com/presentation/d/1MYWcok8vHEbEz9f_Qkq4M9NmMH29WJv1boYfpg6mYeI/edit?usp=sharing",
         "technologies": [
           {
             "class": "devicon-figma-plain",
