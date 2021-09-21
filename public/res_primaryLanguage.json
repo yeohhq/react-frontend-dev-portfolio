@@ -190,9 +190,20 @@
     ],
     "experience": [
       {
+        "company": "Google DSC - NUS",
+        "title": "Product Designer",
+        "years": "08.2021 - Present",
+        "mainTech": [
+          "UIUX Design"
+        ],
+        "technologies": [
+          "Figma"
+        ]
+      },
+      {
         "company": "NTUC Income",
         "title": "WCMS Developer",
-        "years": "05.2021 - present",
+        "years": "05.2021 - 08.2021",
         "mainTech": [
           "HTML, CSS, Kentico CMS"
         ],
@@ -209,7 +220,7 @@
       },
       {
         "company": "Reportise Pte Ltd",
-        "title": "Co-Founder / UI/UX Designer",
+        "title": "Co-Founder / UIUX Designer",
         "years": "03.2020 - 06.2020",
         "mainTech": [
           "UI/UX Design"
