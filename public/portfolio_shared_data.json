@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com/yeohhuiqing",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/yeohhuiqing/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

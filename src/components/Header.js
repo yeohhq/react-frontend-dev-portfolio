@@ -26,32 +26,62 @@ class Header extends Component {
   render() {
     if (this.props.sharedData) {
       var name = this.props.sharedData.name;
-      this.titles = this.props.sharedData.titles.map(x => [ x.toUpperCase(), 1500 ] ).flat();
+      this.titles = this.props.sharedData.titles
+        .map((x) => [x.toUpperCase(), 1500])
+        .flat();
     }
 
-    const HeaderTitleTypeAnimation = React.memo( () => {
-      return <Typical className="title-styles" steps={this.titles} loop={50} />
-    }, (props, prevProp) => true);
+    const HeaderTitleTypeAnimation = React.memo(
+      () => {
+        return (
+          <Typical className="title-styles" steps={this.titles} loop={50} />
+        );
+      },
+      (props, prevProp) => true
+    );
 
     return (
-      <header id="home" style={{ height: window.innerHeight - 140, display: 'block' }}>
-        <div className="row aligner" style={{height: '100%'}}>
+      <header
+        id="home"
+        style={{ height: window.innerHeight - 140, display: "block" }}
+      >
+        <div className="row aligner" style={{ height: "100%" }}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
-              <br/>
+              <span
+                className="iconify header-icon"
+                data-icon="la:laptop-code"
+                data-inline="false"
+              ></span>
+              <br />
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
               </h1>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              <div style={{paddingTop: '3rem', paddingBottom: '3rem'}}>
-                <h1 className="mb-0">
-                ᕙ(`▿´)ᕗ
-                </h1>
+              <div style={{ paddingTop: "3rem", paddingBottom: "3rem" }}>
+                <h1 className="mb-0">ᕙ(`▿´)ᕗ</h1>
               </div>
-              <a role="button" className="btn btn-dark btn-lg" href="https://drive.google.com/file/d/1vvAdfC3pwiBfwZxKCHuVRXTs-Hy3zJ4w/view?usp=sharing">View my CV</a>
+              <a
+                style={{ marginRight: "3rem" }}
+                role="button"
+                className="btn btn-dark btn-lg"
+                href="https://drive.google.com/drive/folders/1AkMZifpTEy_XGhDkzsV2pjbVY7M1la6K?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View my CV
+              </a>
+              <a
+                role="button"
+                className="btn btn-dark btn-lg"
+                href="https://www.linkedin.com/in/yeohhuiqing/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View my LinkedIn Profile
+              </a>
             </div>
           </div>
         </div>
