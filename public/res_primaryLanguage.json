@@ -1,7 +1,8 @@
 {
     "basic_info": {
       "description_header": "Hello there!",
-      "description": "👋 I'm Yeoh Hui Qing, a to-be Year 3 Computer Science undegraduate at National University of Singapore (NUS)! I'm currently interning for the summer as a WCMS Developer, and is working on expanding my knowledge for front-end development, software engineering and UI/UX designs!",
+      "description": "👋 I'm Yeoh Hui Qing, a Year 3 Computer Science undegraduate at National University of Singapore (NUS)! I'm currently looking for a Summer Internship for 2022 (May - Aug) for a Software Engineering role!",
+      "additionalInfo": "I am looking to specialise in Software Engineering, Computer Graphics and Databases. Also working on expanding my knowledge for front-end development and UI/UX designs! :)",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

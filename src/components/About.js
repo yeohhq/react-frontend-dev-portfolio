@@ -9,6 +9,7 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
+      var additionalInfo = this.props.resumeBasicInfo.additionalInfo;
     }
 
     return (
@@ -78,6 +79,9 @@ class About extends Component {
                     <br />
                     <br />
                     {about}
+                    <br />
+                    <br />
+                    {additionalInfo}
                   </div>
                 </div>
               </div>
