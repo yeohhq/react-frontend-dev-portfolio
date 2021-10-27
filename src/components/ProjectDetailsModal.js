@@ -95,9 +95,9 @@ class ProjectDetailsModal extends Component {
               ) : null}
             </h3>
             <p className="modal-description">{description}</p>
-            <h3 style={{ padding: "5px 5px 0 5px" }}>
-              Pitch Deck:
-              {pitchDeck ? (
+            {pitchDeck ? (
+              <h3 style={{ padding: "5px 5px 0 5px" }}>
+                Pitch Deck:
                 <a
                   href={pitchDeck}
                   target="_blank"
@@ -109,8 +109,8 @@ class ProjectDetailsModal extends Component {
                     style={{ marginLeft: "10px" }}
                   ></i>
                 </a>
-              ) : null}
-            </h3>
+              </h3>
+            ) : null}
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>
