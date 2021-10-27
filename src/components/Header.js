@@ -43,25 +43,17 @@ class Header extends Component {
     return (
       <header
         id="home"
-        style={{ height: window.innerHeight - 140, display: "block" }}
+        style={{ height: window.innerHeight - 400, display: "block" }}
       >
         <div className="row aligner" style={{ height: "100%" }}>
           <div className="col-md-12">
             <div>
-              <span
-                className="iconify header-icon"
-                data-icon="la:laptop-code"
-                data-inline="false"
-              ></span>
               <br />
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
               </h1>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
-              </div>
-              <div style={{ paddingTop: "3rem", paddingBottom: "3rem" }}>
-                <h1 className="mb-0">ᕙ(`▿´)ᕗ</h1>
               </div>
               <a
                 style={{ marginRight: "3rem" }}
@@ -80,7 +72,7 @@ class Header extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                View my LinkedIn Profile
+                LinkedIn Profile
               </a>
             </div>
           </div>
