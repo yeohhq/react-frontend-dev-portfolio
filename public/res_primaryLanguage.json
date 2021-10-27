@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello there!",
-      "description": "👋 I'm Yeoh Hui Qing, a Year 3 Computer Science undegraduate at National University of Singapore (NUS)! I'm currently looking for a Summer Internship for 2022 (May - Aug) for a Software Engineering role!",
+      "description": "👋 I'm Yeoh Hui Qing, a Year 3 Computer Science undegraduate at National University of Singapore (NUS)! I'm currently looking for a Summer Internship for 2022 (May - Aug) for a UI/UX Research or Software Engineering role!",
       "additionalInfo": "I am looking to specialise in Software Engineering, Computer Graphics and Databases. Also working on expanding my knowledge for front-end development and UI/UX designs! :)",
       "section_name": {
         "about": "About me",
@@ -11,6 +11,44 @@
       }
     },
     "projects": [
+      {
+        "title": "PrettifyMe! - AR Beauty Guru",
+        "startDate": "Oct 2021",
+        "description": "PrettifyMe! is my personal UI/UX design project. This project aims to incoporate futuristic interaction designs, in particular Augmented Reality (AR) and voice control technologies to solve real-life issues. As someone who is interested in makeup but not very adept with it (>.<''), I decided to create a smart mobile application that can guide me step-by-step how to improve my physical appearance. Click the link below to find out more! :)",
+        "images": [
+          "images/portfolio/prettify-me/Slide1.png",
+          "images/portfolio/prettify-me/Slide2.png"
+        ],
+        "url": "https://www.figma.com/proto/UnpAnQ4Qy8LWWPStgcvxAf/PrettifyMe!?node-id=291%3A203&scaling=scale-down&page-id=1%3A3&starting-point-node-id=291%3A203&show-proto-sidebar=1",
+        "pitchDeck": "https://drive.google.com/drive/folders/1qoljUgXiEdtY-t3eqLpcoIp4rKzx-jd_?usp=sharing",
+        "technologies": [
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Shopee Compare",
+        "startDate": "2020",
+        "description": "Shopee Compare is my team's proposed idea to help improve the existing Shopee app to help users make better purchase decisions when shopping on the platform. This idea has led our team to the Semi-Finals of the Shopee UI/UX Challenge 2021. You can view our prototype in the link attached :)",
+        "images": [
+          "images/portfolio/shopee-compare/poster.jpg",
+          "images/portfolio/shopee-compare/mockup.png"
+        ],
+        "url": "https://www.figma.com/proto/OxfBomMwUyaQ1bPoJdnTEU/Shopee-AmongUX?node-id=61%3A1&scaling=min-zoom",
+        "pitchDeck": "https://docs.google.com/presentation/d/1MYWcok8vHEbEz9f_Qkq4M9NmMH29WJv1boYfpg6mYeI/edit?usp=sharing",
+        "technologies": [
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          },
+          {
+            "class": "devicon-xd-plain",
+            "name": "AdobeXD"
+          }
+        ]
+      },
       {
         "title": "Ufie - Orbital Project",
         "startDate": "2020",
@@ -48,70 +86,7 @@
         ]
       },
       {
-        "title": "Archangel - Clinical Data & Appointment Manager",
-        "startDate": "2020",
-        "description": "Archangel is a desktop application with a user-friendly Command-Line Interface (CLI) that serves to help medical personnel manage clinical and patient data, and schedule appoints for their patients. This application was developed with my CS2103T Software Engineering module team - Kim Guan, Hoa Shen, Gordon and Jim.",
-        "images": [
-          "images/portfolio/archangel/Archangel-1.png",
-          "images/portfolio/archangel/Archangel-2.png"
-        ],
-        "url": "https://ay2021s1-cs2103t-w11-1.github.io/tp/",
-        "pitchDeck": "https://docs.google.com/presentation/d/1lTUPWbDy5wWk0m8im9GA8W6d1S5Id51d-pUfZ2BhEno/edit?usp=sharing",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          }
-        ]
-      },
-      {
-        "title": "RIP - Game Dev Project",
-        "startDate": "2020",
-        "description": "One of the first elaborate game I have built with a team of 4 other friends on Unreal Engine 4 for a school project under CS3247. I was in charge of map design, assets creation and game logic. Rest In Peace (RIP) is a top-down third person action game that challenges the player to survive zombies attacks and achieve victory by collecting crystals scattered across the map. Click on the link above to download the game if you would like to challenge yourself at it ;)",
-        "images": [
-          "images/portfolio/rest-in-peace/Slide1.png",
-          "images/portfolio/rest-in-peace/Slide2.png",
-          "images/portfolio/rest-in-peace/Slide3.png",
-          "images/portfolio/rest-in-peace/Slide4.png",
-          "images/portfolio/rest-in-peace/Slide5.png",
-          "images/portfolio/rest-in-peace/Slide6.png",
-          "images/portfolio/rest-in-peace/Slide7.png",
-          "images/portfolio/rest-in-peace/Slide8.png",
-          "images/portfolio/rest-in-peace/Slide9.png",
-          "images/portfolio/rest-in-peace/Slide10.png",
-          "images/portfolio/rest-in-peace/Slide11.png"
-        ],
-        "url": "https://drive.google.com/file/d/1Rlst_cD1qiAmjdtonibWuZxLtD_ZAIiC/view?usp=sharing",
-        "technologies": [
-          {
-            "class": "",
-            "name": "Unreal Engine 4"
-          }
-        ]
-      },
-      {
-        "title": "Shopee Compare",
-        "startDate": "2020",
-        "description": "Shopee Compare is my team's proposed idea to help improve the existing Shopee app to help users make better purchase decisions when shopping on the platform. This idea has led our team to the Semi-Finals of the Shopee UI/UX Challenge 2021. You can view our prototype in the link attached :)",
-        "images": [
-          "images/portfolio/shopee-compare/poster.jpg",
-          "images/portfolio/shopee-compare/mockup.png"
-        ],
-        "url": "https://www.figma.com/proto/OxfBomMwUyaQ1bPoJdnTEU/Shopee-AmongUX?node-id=61%3A1&scaling=min-zoom",
-        "pitchDeck": "https://docs.google.com/presentation/d/1MYWcok8vHEbEz9f_Qkq4M9NmMH29WJv1boYfpg6mYeI/edit?usp=sharing",
-        "technologies": [
-          {
-            "class": "devicon-figma-plain",
-            "name": "Figma"
-          },
-          {
-            "class": "devicon-xd-plain",
-            "name": "AdobeXD"
-          }
-        ]
-      },
-      {
-        "title": "Reportise",
+        "title": "Reportise - News Portal",
         "startDate": "2020",
         "description": "UI/UX Design project for a private company working on sharing news in bite-sized summaries to combat the problem of information overload in today's world. Reportise is a news-sharing and social platform where users can pay-as-you-read. I was responsible for revamping the site UI/UX to optimise the site's novel features for users. :)",
         "images": [
@@ -185,6 +160,48 @@
           {
             "class": "devicon-react-plain",
             "name": "React Native"
+          }
+        ]
+      },
+      {
+        "title": "RIP - Game Dev Project",
+        "startDate": "2020",
+        "description": "One of the first elaborate game I have built with a team of 4 other friends on Unreal Engine 4 for a school project under CS3247. I was in charge of map design, assets creation and game logic. Rest In Peace (RIP) is a top-down third person action game that challenges the player to survive zombies attacks and achieve victory by collecting crystals scattered across the map. Click on the link above to download the game if you would like to challenge yourself at it ;)",
+        "images": [
+          "images/portfolio/rest-in-peace/Slide1.png",
+          "images/portfolio/rest-in-peace/Slide2.png",
+          "images/portfolio/rest-in-peace/Slide3.png",
+          "images/portfolio/rest-in-peace/Slide4.png",
+          "images/portfolio/rest-in-peace/Slide5.png",
+          "images/portfolio/rest-in-peace/Slide6.png",
+          "images/portfolio/rest-in-peace/Slide7.png",
+          "images/portfolio/rest-in-peace/Slide8.png",
+          "images/portfolio/rest-in-peace/Slide9.png",
+          "images/portfolio/rest-in-peace/Slide10.png",
+          "images/portfolio/rest-in-peace/Slide11.png"
+        ],
+        "url": "https://drive.google.com/file/d/1Rlst_cD1qiAmjdtonibWuZxLtD_ZAIiC/view?usp=sharing",
+        "technologies": [
+          {
+            "class": "",
+            "name": "Unreal Engine 4"
+          }
+        ]
+      },
+      {
+        "title": "Archangel - Clinical Data & Appointment Manager",
+        "startDate": "2020",
+        "description": "Archangel is a desktop application with a user-friendly Command-Line Interface (CLI) that serves to help medical personnel manage clinical and patient data, and schedule appoints for their patients. This application was developed with my CS2103T Software Engineering module team - Kim Guan, Hoa Shen, Gordon and Jim.",
+        "images": [
+          "images/portfolio/archangel/Archangel-1.png",
+          "images/portfolio/archangel/Archangel-2.png"
+        ],
+        "url": "https://ay2021s1-cs2103t-w11-1.github.io/tp/",
+        "pitchDeck": "https://docs.google.com/presentation/d/1lTUPWbDy5wWk0m8im9GA8W6d1S5Id51d-pUfZ2BhEno/edit?usp=sharing",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
           }
         ]
       }
