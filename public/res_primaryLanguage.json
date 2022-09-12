@@ -1,8 +1,8 @@
 {
     "basic_info": {
       "description_header": "Hello there!",
-      "description": "👋 I'm Yeoh Hui Qing, a Year 3 Computer Science undegraduate at National University of Singapore (NUS)! I'm currently looking for a Summer Internship for 2022 (May - Aug) for a UI/UX Research or Software Engineering role!",
-      "additionalInfo": "I am looking to specialise in Software Engineering, Computer Graphics and Databases. Also working on expanding my knowledge for front-end development and UI/UX designs! :)",
+      "description": "👋 I'm Yeoh Hui Qing, a final year Computer Science undegraduate at National University of Singapore (NUS)! I'm currently looking for a 6-month long Summer Internship for 2023 (Jan - June) for Frontend Development and Software Engineering roles!",
+      "additionalInfo": "I specialise in Frontend Web Development, Software Engineering, Computer Graphics and Databases. Also working on expanding my knowledge for UI/UX designs! :)",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -208,9 +208,24 @@
     ],
     "experience": [
       {
+        "company": "Shopee",
+        "title": "Frontend / UI Developer",
+        "years": "06.2022 - Present",
+        "mainTech": [
+          "Frontend Web Development", "Ant Design / Ant V Libraries"
+        ],
+        "technologies": [
+          "React",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "Elastic"
+        ]
+      },
+      {
         "company": "Google DSC - NUS",
         "title": "Product Designer",
-        "years": "08.2021 - Present",
+        "years": "08.2021 - 06.2022",
         "mainTech": [
           "UIUX Design"
         ],
