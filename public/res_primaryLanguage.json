@@ -1,8 +1,8 @@
 {
     "basic_info": {
       "description_header": "Hello there!",
-      "description": "👋 I'm Yeoh Hui Qing, a final year Computer Science undegraduate at National University of Singapore (NUS)! I'm currently looking for a 6-month long Summer Internship for 2023 (Jan - June) for Frontend Development and Software Engineering roles!",
-      "additionalInfo": "I specialise in Frontend Web Development, Software Engineering, Computer Graphics and Databases. Also working on expanding my knowledge for UI/UX designs! :)",
+      "description": "👋 I'm Yeoh Hui Qing, a final year Computer Science undegraduate at National University of Singapore (NUS)! I'm currently looking for a full-time job for Software Development roles!",
+      "additionalInfo": "I specialise in Fullstack/Frontend Web Development, Software Engineering, Computer Graphics and Databases. Also working on expanding my knowledge for UI/UX designs! :)",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -208,9 +208,25 @@
     ],
     "experience": [
       {
+        "company": "GovTech",
+        "title": "Software Developer (Intern)",
+        "years": "01.2023 - Present",
+        "mainTech": [
+          "Prisma", "Tailwind", "Ant Design / Ant V Libraries"
+        ],
+        "technologies": [
+          "React",
+          "TypeScript",
+          "Tailwind",
+          "MySQL",
+          "Primsa",
+          "Docker"
+        ]
+      },
+      {
         "company": "Shopee",
-        "title": "Frontend / UI Developer",
-        "years": "06.2022 - Present",
+        "title": "Frontend / UI Developer (Intern)",
+        "years": "06.2022 - 11.2022",
         "mainTech": [
           "Frontend Web Development", "Ant Design / Ant V Libraries"
         ],
@@ -235,7 +251,7 @@
       },
       {
         "company": "NTUC Income",
-        "title": "WCMS Developer",
+        "title": "WCMS Developer (Intern)",
         "years": "05.2021 - 08.2021",
         "mainTech": [
           "HTML, CSS, Kentico CMS"
